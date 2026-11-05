@@ -16,6 +16,7 @@ I'm drawn to product and startups because the work crosses boundaries. I like we
 
 | Project | What it shows |
 | --- | --- |
+| [myPhysio](https://myphysio.care/) | Built with friends as a gift for a physio colleague: a practice tool for assigning exercise programs and tracking patient recovery, with a companion mobile app. |
 | [Research platform documentation](https://github.com/BioMedicalImaging-Core-NYUAD/xnat-docs) | Making complex tools easier to use through collaborative documentation. |
 | [Gravity simulator](https://github.com/soumen02/Stellar-Orbit-Gravity-Simulator) | Exploring physics through an interactive p5.js game. |
 | [Sentinel booth page](https://soumen02.github.io/sentinel-laminate-booth/) · [Code](https://github.com/soumen02/sentinel-laminate-booth) | Introducing our medtech AI project for MS MRI review through a scroll-driven story that works from a phone to the event screen. |
