@@ -18,10 +18,10 @@ I'm drawn to product and startups because the work crosses boundaries. I like we
 | --- | --- |
 | [Research platform documentation](https://github.com/BioMedicalImaging-Core-NYUAD/xnat-docs) | Making complex tools easier to use through collaborative documentation. |
 | [Gravity simulator](https://github.com/soumen02/Stellar-Orbit-Gravity-Simulator) | Exploring physics through an interactive p5.js game. |
-| [Streaming-platform analysis](https://soumen02.github.io/Data-Analysis-Netflix/) · [Code](https://github.com/soumen02/Data-Analysis-Netflix) | Exploring streaming catalogs with R and turning the analysis into a readable report. |
+| [Sentinel booth page](https://soumen02.github.io/sentinel-laminate-booth/) · [Code](https://github.com/soumen02/sentinel-laminate-booth) | Introducing our medtech AI project for MS MRI review through a scroll-driven story that works from a phone to the event screen. |
 | [Liver-imaging prototype](https://github.com/soumen02/LiverProject-WebApp) | Connecting CT preparation, model inference, and a Flask interface in a research capstone. |
 
-The simulator, analysis, and imaging prototype are earlier projects. Today I work on research platforms and applied AI at NYU Abu Dhabi's Center for Brain and Health, and I've also co-built a deployed exercise-assignment product with AI-assisted development.
+The simulator and imaging prototype are earlier projects. Today I work on research platforms and applied AI at NYU Abu Dhabi's Center for Brain and Health, and I've also co-built a deployed exercise-assignment product with AI-assisted development.
 
 I'm always interested in comparing notes on AI tools, product ideas, and problems worth solving.
 
